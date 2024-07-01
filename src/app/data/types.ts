@@ -7,5 +7,5 @@ export interface product {
   rating: number;
   image: string;
   brand: string;
-  color?: string;
+  color: string;
 }
